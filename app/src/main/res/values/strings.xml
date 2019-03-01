@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rolecall">Rolecall</string>
+    <string name="student1">Chris Brady</string>
+    <string name="student2">Cian Morrin</string>
+    <string name="student3">Richie Meyer</string>
+    <string name="student4">David Tilson</string>
+    <string name="student5">Glenn Moore</string>
+    <string name="student6">Josh Reid</string>
+    <string name="student7">Daniel Foley</string>
+    <string name="student8">Ben Cox</string>
+    <string name="student9">Dean O Rourke</string>
+    <string name="appwidget_text">First Class of The Day</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
