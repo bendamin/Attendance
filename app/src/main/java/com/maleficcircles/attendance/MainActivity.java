@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity
     String Monday[] = {"Data Communications\nKevin Street\n4th Floor","Object Oriented Programming\nKevin Street\n4th Floor"};
     String MondayTimes[] = {"\n10:00\n\n11:00\n","\n11:00\n\n\n\n\n13:00\n"};
 
-    String Tuesday[] = {"Legal And Professional Issues\nKevin Street\n4th Floor","Legal And Professional Issues\nKevin Street\n1st Floor","","Data Communications\nKevin Street\nGround Floor"};
+    String Tuesday[] = {"Legal And Professional Issues\nKevin Street\n4th Floor","Legal And Professional Issues\nKevin Street\n1st Floor","","Data Communications\nKevin Street\n4th Floor"};
     String TuesdayTimes[] = {"\n12:00\n\n13:00\n","\n13:00\n\n14:00\n","\n\n\n\n\n\n\n","\n16:00\n\n17:00\n"};
 
     String Wednesday[] = {"Legal And Professional Issues\nKevin Street\n4th Floor","","Software Engineering 2\nKevin Street\n2nd Floor","","Software Engineering 2\nAnnex Building\n1st Floor","Object Oriented Programming\nAnnex Building\n1st Floor"};
