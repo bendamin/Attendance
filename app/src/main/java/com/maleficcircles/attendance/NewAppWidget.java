@@ -22,7 +22,7 @@ public class NewAppWidget extends AppWidgetProvider {
         String MondayTimes[] = {"10:00\n11:00", "11:00\n13:00"};
         int mon[] = {10,11};
 
-        String Tuesday[] = {"Legal And Professional Issues\nKevin Street - 4th Floor","Legal And Professional Issues\nKevin Street\n1st Floor","Data Communications\nKevin Street - Ground Floor"};
+        String Tuesday[] = {"Legal And Professional Issues\nKevin Street - 4th Floor","Legal And Professional Issues\nKevin Street\n1st Floor","Data Communications\nKevin Street - 4th Floor"};
         String TuesdayTimes[] = {"12:00\n13:00","13:00\n14:00","16:00\n17:00"};
         int tue[] = {12,13,16};
 
