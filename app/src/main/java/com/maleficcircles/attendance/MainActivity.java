@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity
     String Wednesday[] = {"Legal And Professional Issues\nKevin Street\n4th Floor","","Software Engineering 2\nKevin Street\n2nd Floor","","Software Engineering 2\nAnnex Building\n1st Floor","Object Oriented Programming\nAnnex Building\n1st Floor"};
     String WednesdayTimes[] = {"\n10:00\n\n11:00\n","\n\n\n\n","\n12:00\n\n\n\n14:00\n","\n\n\n\n","\n15:00\n\n16:00\n","\n16:00\n\n18:00\n"};
 
-    String Thursday[] = {"Object Oriented Programming\nnKevin Street\n4th Floor","Human Computer Interaction\nKevin Street\n4th Floor","Data Communication\nKevin Street\n3rd Floor","","Internship Program\nKevin Street\n4th Floor","Human Computer Interaction\nAungier Street\n1st Floor"};
+    String Thursday[] = {"Object Oriented Programming\nKevin Street\n4th Floor","Human Computer Interaction\nKevin Street\n4th Floor","Data Communication\nKevin Street\n3rd Floor","","Internship Program\nKevin Street\n4th Floor","Human Computer Interaction\nAungier Street\n1st Floor"};
     String ThursdayTime[] = {"\n09:00\n\n10:00\n","\n10:00\n\n11:00\n","\n11:00\n\n12:00\n","\n\n\n\n","\n13:00\n\n14:00\n","\n14:00\n\n\n\n16:00\n"};
 
     String Friday[] = {"Algorithms And Data Structures\nAnnex Building\n3rd Floor","Human Computer Interaction\nKevin Street\n2nd Floor","Data Communications\nKevin Street\n2nd Floor","Algorithms And Data Structures\nKevin Street\n2nd Floor","","Algorithms And Data Structures\nKevin Street\n1st Floor","Algorithms And Data Structures\nKevin Street\n1st Floor"};
