@@ -30,7 +30,7 @@ public class NewAppWidget extends AppWidgetProvider {
         String WednesdayTimes[] = {"10:00\n11:00","12:00\n14:00","15:00\n16:00","16:00\n18:00"};
         int wed[] = {10,12,13,16};
 
-        String Thursday[] = {"Object Oriented Programming\nnKevin Street - 4th Floor","Human Computer Interaction\nKevin Street - 4th Floor","Data Communication\nKevin Street - 3rd Floor","Internship Program\nKevin Street - 4th Floor","Human Computer Interaction\nAungier Street - 1st Floor"};
+        String Thursday[] = {"Object Oriented Programming\nKevin Street - 4th Floor","Human Computer Interaction\nKevin Street - 4th Floor","Data Communication\nKevin Street - 3rd Floor","Internship Program\nKevin Street - 4th Floor","Human Computer Interaction\nAungier Street - 1st Floor"};
         String ThursdayTime[] = {"09:00\n10:00","10:00\n11:00","11:00\n12:00\n","13:00\n14:00","14:00\n16:00"};
         int thu[] = {9,10,11,13,14};
 
